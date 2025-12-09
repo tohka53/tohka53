@@ -38,7 +38,7 @@
 ```typescript
 const miguelCabrera = {
     nombre: "Miguel Cabrera",
-    título: "Ingeniero en Sistemas",
+    título: "Systems Engineer",
     ubicación: "Guatemala 🇬🇹",
     empresa: "TechSolutions GT",
     roles: [
