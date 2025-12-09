@@ -219,20 +219,7 @@ const miguelCabrera = {
 
 </div>
 
----
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3584e4&icon_color=3584e4&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3584e4&text_color=c9d1d9&langs_count=10" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a5fb4&ring=3584e4&fire=3584e4&currStreakLabel=3584e4" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true&bg_color=0d1117&color=3584e4&line=3584e4&point=ffffff&area=true&area_color=1a5fb4" width="100%"/>
-
-</div>
 
 ---
 
