@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a5fb4,100:3584e4&height=200&section=header&text=Miguel%20Cabrera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a5fb4,100:3584e4&height=200&section=header&text=Miguel%20Cabrera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20en%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+Software+Architect;%E2%9C%A8+Transformando+Ideas+en+Soluciones+Tecnol%C3%B3gicas)](https://www.techsolutionsgt.dev/)
@@ -21,7 +21,7 @@
   <a href="mailto:contacto@techsolutionsgt.dev">
     <img src="https://img.shields.io/badge/📧_Email-Contáctame-0d1117?style=for-the-badge&labelColor=1a5fb4" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguelecabrera/">
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5" alt="LinkedIn"/>
   </a>
 </p>
@@ -307,5 +307,5 @@ const miguelCabrera = {
 <div align="center">
   <img src="https://img.shields.io/badge/Hecho_con_❤️_por-Miguel_Cabrera-1a5fb4?style=flat-square" alt="Made with love"/>
   <br/>
-  <sub>🇬🇹 Guatemala | Ingeniero en Sistemas | Full Stack Developer</sub>
+  <sub>🇬🇹 Guatemala | Systems Engineer | Full Stack Developer</sub>
 </div>
